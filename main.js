@@ -17,7 +17,7 @@ document.querySelector('.btn2').addEventListener('click', function(e) {
     // You can add Google Analytics or other tracking here
     
     // Vercel-compatible path to your CV
-    const cvPath = '/docs/cv_nihara_dasanayaka(1).pdf';
+    const cvPath = '"Users/Nihara Dasanayaka/Desktop/Sine/portfolio/CV_nihara_dasanayaka (1).pdf"';
     
     // Create a temporary anchor element to trigger download
     const link = document.createElement('a');
